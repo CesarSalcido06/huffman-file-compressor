@@ -1,0 +1,1 @@
+Huffman coding assigns shorter codes to more frequent characters.
